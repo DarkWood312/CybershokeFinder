@@ -1,0 +1,85 @@
+{
+   "playersv2": [
+      {
+         "group": "LITE",
+         "name": "alonez",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/58/58dc1bf1ea4d644820765caa0a618032ddb6ff9c_full.jpg",
+         "country": "ua",
+         "faceit_level": 2,
+         "cybershoke_level": 6,
+         "steamid64": "76561199116680361",
+         "server_ip": "46.174.52.109",
+         "server_port": 27035,
+         "kills": 27,
+         "headshots": 13,
+         "deaths": 22,
+         "time": 1306,
+         "FACEIT_elo": 820
+      },
+      {
+         "group": "LITE",
+         "name": "\ud83c\uddfa\ud83c\udde6",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c7/c72a02c72b203e439ebbfb1154549b2a73020dfa_full.jpg",
+         "country": "ua",
+         "faceit_level": 3,
+         "cybershoke_level": 3,
+         "steamid64": "76561198834245099",
+         "server_ip": "46.174.52.109",
+         "server_port": 27035,
+         "kills": 23,
+         "headshots": 10,
+         "deaths": 22,
+         "time": 1285,
+         "FACEIT_elo": 1063
+      },
+      {
+         "group": null,
+         "name": "bylo4ka",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/61/6190f9e6dfa3a7c2efa5322755e83cde648ef5aa_full.jpg",
+         "country": "ua",
+         "faceit_level": 3,
+         "cybershoke_level": 2,
+         "steamid64": "76561198168190939",
+         "server_ip": "46.174.52.109",
+         "server_port": 27035,
+         "kills": 21,
+         "headshots": 8,
+         "deaths": 18,
+         "time": 1041,
+         "FACEIT_elo": 982
+      },
+      {
+         "group": "LITE",
+         "name": "x1no",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf9db931e67b44a153536a6a58d4fae14beb93bb_full.jpg",
+         "country": "ua",
+         "faceit_level": null,
+         "cybershoke_level": 3,
+         "steamid64": "76561199235056513",
+         "server_ip": "46.174.52.109",
+         "server_port": 27035,
+         "kills": 16,
+         "headshots": 5,
+         "deaths": 24,
+         "time": 1122,
+         "FACEIT_elo": null
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.52.109",
+         "port": 27035,
+         "Players": 4,
+         "round_win_ct": 22,
+         "round_win_t": 21,
+         "match_start_time": 1646238737,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_inferno",
+         "max_players": 7,
+         "players": 4,
+         "faceit_avg": 3,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

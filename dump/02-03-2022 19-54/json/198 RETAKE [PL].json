@@ -1,0 +1,53 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "qwar1x",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/08e50f7169dde386cc1aa60e2a634bea36d2ac2a_full.jpg",
+         "country": "ru",
+         "faceit_level": 4,
+         "cybershoke_level": 4,
+         "steamid64": "76561198352129622",
+         "server_ip": "54.37.129.53",
+         "server_port": 27036,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 34,
+         "FACEIT_elo": 1108
+      },
+      {
+         "group": null,
+         "name": "Dickhead",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c6/c64627ef3cfd2d1ea296836b2f46f4fbd398bd9a_full.jpg",
+         "country": "ru",
+         "faceit_level": 2,
+         "cybershoke_level": 4,
+         "steamid64": "76561199072480678",
+         "server_ip": "54.37.129.53",
+         "server_port": 27036,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 2,
+         "FACEIT_elo": 895
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "54.37.129.53",
+         "port": 27036,
+         "Players": 2,
+         "round_win_ct": 0,
+         "round_win_t": 0,
+         "match_start_time": 1646240044,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 7,
+         "players": 2,
+         "faceit_avg": 3,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

@@ -1,0 +1,53 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "GHOST OF KYIV",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60983dc489a0c8dd659cebc72e1629ba619b937b_full.jpg",
+         "country": "ua",
+         "faceit_level": 1,
+         "cybershoke_level": 3,
+         "steamid64": "76561198938958104",
+         "server_ip": "46.174.55.15",
+         "server_port": 27030,
+         "kills": 40,
+         "headshots": 23,
+         "deaths": 62,
+         "time": 2750,
+         "FACEIT_elo": 746
+      },
+      {
+         "group": null,
+         "name": "Ryze 1000-7",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b2/b2451b46d68ce2c1357c6c739f0474dfab573e12_full.jpg",
+         "country": "by",
+         "faceit_level": 1,
+         "cybershoke_level": 4,
+         "steamid64": "76561199079564988",
+         "server_ip": "46.174.55.15",
+         "server_port": 27030,
+         "kills": 19,
+         "headshots": 3,
+         "deaths": 35,
+         "time": 1473,
+         "FACEIT_elo": 348
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.55.15",
+         "port": 27030,
+         "Players": 2,
+         "round_win_ct": 1,
+         "round_win_t": 1,
+         "match_start_time": 1646239044,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_nuke",
+         "max_players": 7,
+         "players": 2,
+         "faceit_avg": 1,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

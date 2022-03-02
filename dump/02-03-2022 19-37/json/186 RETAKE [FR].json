@@ -1,0 +1,37 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "therassul",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/06/0604dfb451640dcca5346b81764da67d563c0947_full.jpg",
+         "country": "kz",
+         "faceit_level": 6,
+         "cybershoke_level": 1,
+         "steamid64": "76561199048865606",
+         "server_ip": "37.187.137.199",
+         "server_port": 27015,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 9,
+         "FACEIT_elo": 1460
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "37.187.137.199",
+         "port": 27015,
+         "Players": 1,
+         "round_win_ct": 0,
+         "round_win_t": 0,
+         "match_start_time": 1646239077,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 7,
+         "players": 1,
+         "faceit_avg": 6,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

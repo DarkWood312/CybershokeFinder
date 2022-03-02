@@ -1,0 +1,69 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "DryDan",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/15/159c11bf3a085eda858ab15dbe3c7c6a9f8d58bf_full.jpg",
+         "country": "ru",
+         "faceit_level": 1,
+         "cybershoke_level": 5,
+         "steamid64": "76561199105372778",
+         "server_ip": "46.174.55.15",
+         "server_port": 27028,
+         "kills": 11,
+         "headshots": 5,
+         "deaths": 9,
+         "time": 566,
+         "FACEIT_elo": 559
+      },
+      {
+         "group": null,
+         "name": "MoTeYeR",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c9/c936fd134acd2cc61911d9b4642bb5837fd69d99_full.jpg",
+         "country": "ru",
+         "faceit_level": 5,
+         "cybershoke_level": 13,
+         "steamid64": "76561199044070441",
+         "server_ip": "46.174.55.15",
+         "server_port": 27028,
+         "kills": 9,
+         "headshots": 6,
+         "deaths": 2,
+         "time": 283,
+         "FACEIT_elo": 1315
+      },
+      {
+         "group": null,
+         "name": "\u041f\u0418\u0410\u041d\u0418\u041d\u041e",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8e/8e9dcdba20009c1fa5cb70cd401555961206abbc_full.jpg",
+         "country": "ru",
+         "faceit_level": 1,
+         "cybershoke_level": 5,
+         "steamid64": "76561199075124943",
+         "server_ip": "46.174.55.15",
+         "server_port": 27028,
+         "kills": 6,
+         "headshots": 3,
+         "deaths": 15,
+         "time": 553,
+         "FACEIT_elo": 498
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.55.15",
+         "port": 27028,
+         "Players": 3,
+         "round_win_ct": 9,
+         "round_win_t": 11,
+         "match_start_time": 1646239535,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_inferno",
+         "max_players": 7,
+         "players": 3,
+         "faceit_avg": 2,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

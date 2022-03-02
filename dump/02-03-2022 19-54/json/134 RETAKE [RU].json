@@ -1,0 +1,53 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "ovsya",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ce/ceb6bf40c0d10deec45b631dd36d8de1cc38db61_full.jpg",
+         "country": "de",
+         "faceit_level": 4,
+         "cybershoke_level": 5,
+         "steamid64": "76561198271301410",
+         "server_ip": "46.174.52.109",
+         "server_port": 27040,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 38,
+         "FACEIT_elo": 1171
+      },
+      {
+         "group": null,
+         "name": "\u0434\u0432\u0438\u043f\u043a\u0430",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c13ebcea2ce8bccbe617d2fae31367a12a079a22_full.jpg",
+         "country": "ru",
+         "faceit_level": 3,
+         "cybershoke_level": 4,
+         "steamid64": "76561199212094969",
+         "server_ip": "46.174.52.109",
+         "server_port": 27040,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 79,
+         "FACEIT_elo": 1044
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.52.109",
+         "port": 27040,
+         "Players": 2,
+         "round_win_ct": 0,
+         "round_win_t": 1,
+         "match_start_time": 1646240023,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 7,
+         "players": 2,
+         "faceit_avg": 4,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

@@ -1,0 +1,37 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "\u2661\ud835\udce5\ud835\udcea\ud835\udcf7\ud835\udcf2\ud835\udcf5\ud835\udcea\u2661",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b9/b91ff38cffc38cd2aaf728bb9358a3aced83b6d0_full.jpg",
+         "country": "kz",
+         "faceit_level": 2,
+         "cybershoke_level": 5,
+         "steamid64": "76561197961754589",
+         "server_ip": "46.174.55.15",
+         "server_port": 27035,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 0,
+         "FACEIT_elo": 827
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.55.15",
+         "port": 27035,
+         "Players": 1,
+         "round_win_ct": 0,
+         "round_win_t": 0,
+         "match_start_time": 1646240076,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 7,
+         "players": 1,
+         "faceit_avg": 2,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

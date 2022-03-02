@@ -1,0 +1,53 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "B3rrZ3rK :v",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dc/dc05791db24a77802ca5838b4b2e74f875af0aef_full.jpg",
+         "country": "ch",
+         "faceit_level": 6,
+         "cybershoke_level": 1,
+         "steamid64": "76561198056455409",
+         "server_ip": "51.195.60.27",
+         "server_port": 27016,
+         "kills": 9,
+         "headshots": 4,
+         "deaths": 1,
+         "time": 265,
+         "FACEIT_elo": 1468
+      },
+      {
+         "group": null,
+         "name": "TheBoxingDead",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a5/a52080938fb451d26a8634f1b8c671728c73bea1_full.jpg",
+         "country": "ru",
+         "faceit_level": 3,
+         "cybershoke_level": 3,
+         "steamid64": "76561198152455285",
+         "server_ip": "51.195.60.27",
+         "server_port": 27016,
+         "kills": 2,
+         "headshots": 2,
+         "deaths": 7,
+         "time": 264,
+         "FACEIT_elo": 1022
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "51.195.60.27",
+         "port": 27016,
+         "Players": 2,
+         "round_win_ct": 5,
+         "round_win_t": 5,
+         "match_start_time": 1646235376,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_overpass",
+         "max_players": 9,
+         "players": 2,
+         "faceit_avg": 5,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

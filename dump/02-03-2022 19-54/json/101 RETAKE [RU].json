@@ -1,0 +1,37 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "Kenzo",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg",
+         "country": "ru",
+         "faceit_level": 5,
+         "cybershoke_level": 5,
+         "steamid64": "76561198893196791",
+         "server_ip": "62.122.215.142",
+         "server_port": 27034,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 50,
+         "FACEIT_elo": 1274
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "62.122.215.142",
+         "port": 27034,
+         "Players": 1,
+         "round_win_ct": 1,
+         "round_win_t": 0,
+         "match_start_time": 1646240056,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 7,
+         "players": 1,
+         "faceit_avg": 5,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

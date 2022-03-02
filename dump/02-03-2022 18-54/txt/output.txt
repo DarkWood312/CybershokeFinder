@@ -1,0 +1,387 @@
+
+83 RETAKE [DE] (162.55.94.181:27028) 8/9 | de_mirage -->
+            Nickname - 💙
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/23/23cfd9f0d28d4fa51c1652c4bdc18e5f242421c4_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1057
+            Level cybershoke - 5
+            STEAMID - 76561198995889374
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198995889374/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 52
+            Headshots - 24
+            Deaths - 28
+            Time - 2174
+
+            Nickname - NAJLY
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2b/2bf082e5889b6c4c0070c523144dd16f6c3d733b_full.jpg
+            Country - ua
+            Level faceit - 4
+            ELO faceit - 1160
+            Level cybershoke - 17
+            STEAMID - 76561198866820938
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198866820938/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 29
+            Headshots - 18
+            Deaths - 10
+            Time - 1012
+
+            Nickname - Tyannn
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/29/29c569f592a75ebbfe7a853f966b82210a5277a2_full.jpg
+            Country - ru
+            Level faceit - 4
+            ELO faceit - 1111
+            Level cybershoke - 2
+            STEAMID - 76561198299266854
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198299266854/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 16
+            Headshots - 7
+            Deaths - 16
+            Time - 949
+
+            Nickname - full durak
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/07/07e8be31b3ae9e1e27e6faf48be9bb65827965d8_full.jpg
+            Country - ua
+            Level faceit - 2
+            ELO faceit - 950
+            Level cybershoke - 3
+            STEAMID - 76561199018707165
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199018707165/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 10
+            Headshots - 5
+            Deaths - 23
+            Time - 1096
+
+            Nickname - Sain
+            Subscription - LITE
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1f/1fe080c0832e97d834bd928adf3e76fe9011a730_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 993
+            Level cybershoke - 7
+            STEAMID - 76561198414646933
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198414646933/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 10
+            Headshots - 6
+            Deaths - 5
+            Time - 440
+
+            Nickname - 240km/h.PEEK_TwIIzI
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/83/83a7f8c3d8e7cb26014d75ed9ee04bd730dcb868_full.jpg
+            Country - ua
+            Level faceit - 3
+            ELO faceit - 1088
+            Level cybershoke - 4
+            STEAMID - 76561199234200730
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199234200730/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 8
+            Headshots - 5
+            Deaths - 22
+            Time - 997
+
+            Nickname - OczyTygrysa *******
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/78/7853b5fa6e16792476f42cf9032fa8cf21370407_full.jpg
+            Country - pl
+            Level faceit - None
+            ELO faceit - None
+            Level cybershoke - 1
+            STEAMID - 76561199165269264
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199165269264/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 6
+            Headshots - 2
+            Deaths - 28
+            Time - 1357
+
+            Nickname - Limbl4
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e9/e9ce9b3f708dd8c4f44937bda2ec8eeb3af220a8_full.jpg
+            Country - ua
+            Level faceit - 2
+            ELO faceit - 807
+            Level cybershoke - 4
+            STEAMID - 76561199046888700
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199046888700/
+            IP - 162.55.94.181
+            Port - 27028
+            Kills - 5
+            Headshots - 2
+            Deaths - 3
+            Time - 261
+
+58 RETAKE [NV] (185.173.92.247:27017) 8/9 | de_mirage -->
+            Nickname - Crasher
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8b/8b4ee23e76017226cd62daf05170278817f40057_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 970
+            Level cybershoke - 3
+            STEAMID - 76561198844763758
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198844763758/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 36
+            Headshots - 19
+            Deaths - 37
+            Time - 1834
+
+            Nickname - мачупикчу
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b7/b7ec8f5df07bd4460ab3da9c0ec86df9fba2f713_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1050
+            Level cybershoke - 4
+            STEAMID - 76561198937566104
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198937566104/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 32
+            Headshots - 15
+            Deaths - 31
+            Time - 1863
+
+            Nickname - тупой лакоста
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f048ce546bdb21fe7ec53532956c6d1ecf2334f8_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 984
+            Level cybershoke - 8
+            STEAMID - 76561198079547494
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198079547494/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 3
+            Headshots - 3
+            Deaths - 8
+            Time - 385
+
+            Nickname - monolox
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/42/4277d4abcf5f0370b69bb7bc371d7a34ba93398f_full.jpg
+            Country - ru
+            Level faceit - 5
+            ELO faceit - 1371
+            Level cybershoke - 3
+            STEAMID - 76561199035598427
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199035598427/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 2
+            Headshots - 1
+            Deaths - 0
+            Time - 220
+
+            Nickname - BimaSiK
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/50790c7c1a5a21e4f44a424d03858b13e7d8d974_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1056
+            Level cybershoke - 6
+            STEAMID - 76561199091516119
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199091516119/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 2
+            Headshots - 2
+            Deaths - 1
+            Time - 115
+
+            Nickname - лаваш
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/eb/eb4f38b118418023eebcd10622659daa3927ab1d_full.jpg
+            Country - ru
+            Level faceit - 2
+            ELO faceit - 891
+            Level cybershoke - 4
+            STEAMID - 76561198412038020
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198412038020/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 0
+            Headshots - 0
+            Deaths - 0
+            Time - 95
+
+            Nickname - ar1st0craTT
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1f/1f7d2c024531f919acd5bd11064887e4a9fa7643_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1066
+            Level cybershoke - 4
+            STEAMID - 76561199198379236
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199198379236/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 0
+            Headshots - 0
+            Deaths - 0
+            Time - 57
+
+            Nickname - ❤DeDyJlYa❤
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/396509cea6695be3d72b398ad01150ac1ccb6e4f_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1051
+            Level cybershoke - 3
+            STEAMID - 76561198997953706
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198997953706/
+            IP - 185.173.92.247
+            Port - 27017
+            Kills - 0
+            Headshots - 0
+            Deaths - 0
+            Time - 51
+
+29 RETAKE [RU] (62.122.215.142:27035) 8/9 | de_dust2 -->
+            Nickname - ♠M4ska♠(イザム 清水)
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/0554d8c07072d1bef10b3af2abf330b8b511e41d_full.jpg
+            Country - ru
+            Level faceit - 5
+            ELO faceit - 1352
+            Level cybershoke - 7
+            STEAMID - 76561198447735475
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198447735475/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 18
+            Headshots - 4
+            Deaths - 13
+            Time - 797
+
+            Nickname - JUMP
+            Subscription - VIP
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b8/b80c737a5dd2d0f5aeef14200ecc8923f0b863e0_full.jpg
+            Country - ru
+            Level faceit - 5
+            ELO faceit - 1259
+            Level cybershoke - 4
+            STEAMID - 76561199212041826
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199212041826/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 13
+            Headshots - 6
+            Deaths - 10
+            Time - 503
+
+            Nickname - GLAVNAYA SHLYUHA D1M
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/676366cdd49c5515517c4b7cb5cdcb37d1684cb7_full.jpg
+            Country - tr
+            Level faceit - 4
+            ELO faceit - 1176
+            Level cybershoke - 6
+            STEAMID - 76561198445611630
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198445611630/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 12
+            Headshots - 7
+            Deaths - 13
+            Time - 578
+
+            Nickname - ...Shady...
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/42/422b21cae4bdf821c2ff4a7fdea4a7edd4aa6207_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1052
+            Level cybershoke - 3
+            STEAMID - 76561198954423479
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198954423479/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 11
+            Headshots - 8
+            Deaths - 8
+            Time - 486
+
+            Nickname - Po
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e5d18fe8e84ca3e82e74f7b1c7e8639af114b836_full.jpg
+            Country - ru
+            Level faceit - 5
+            ELO faceit - 1271
+            Level cybershoke - 6
+            STEAMID - 76561198295933728
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198295933728/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 7
+            Headshots - 4
+            Deaths - 9
+            Time - 440
+
+            Nickname - kison
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/44/446c72d788fe7e14a8d7a0306257da865405481b_full.jpg
+            Country - ua
+            Level faceit - 2
+            ELO faceit - 936
+            Level cybershoke - 6
+            STEAMID - 76561199161326546
+            STEAM_LINK - https://steamcommunity.com/profiles/76561199161326546/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 7
+            Headshots - 5
+            Deaths - 14
+            Time - 619
+
+            Nickname - prettystreet
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/94/946c9e7c3d7a03ab2e0652a1eb29b1349d6feb27_full.jpg
+            Country - ru
+            Level faceit - 3
+            ELO faceit - 1025
+            Level cybershoke - 5
+            STEAMID - 76561198273106660
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198273106660/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 4
+            Headshots - 2
+            Deaths - 5
+            Time - 234
+
+            Nickname - $un$et
+            Subscription - None
+            Avatar - https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/06/064f9ce43d9c1042da87621ead4b4145605afc8e_full.jpg
+            Country - ru
+            Level faceit - 10
+            ELO faceit - 2452
+            Level cybershoke - 8
+            STEAMID - 76561198222828948
+            STEAM_LINK - https://steamcommunity.com/profiles/76561198222828948/
+            IP - 62.122.215.142
+            Port - 27035
+            Kills - 0
+            Headshots - 0
+            Deaths - 0
+            Time - 0

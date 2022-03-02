@@ -1,0 +1,69 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "Mentr",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/48d355825617c1070492dbf073b6b07bd5e69dec_full.jpg",
+         "country": "by",
+         "faceit_level": 3,
+         "cybershoke_level": 5,
+         "steamid64": "76561198306021207",
+         "server_ip": "37.18.21.170",
+         "server_port": 27020,
+         "kills": 5,
+         "headshots": 3,
+         "deaths": 2,
+         "time": 86,
+         "FACEIT_elo": 958
+      },
+      {
+         "group": null,
+         "name": "pablo",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b3/b3f97e2ae45eb4d9d3988c2e5f18df7b506d8afe_full.jpg",
+         "country": "ru",
+         "faceit_level": 3,
+         "cybershoke_level": 6,
+         "steamid64": "76561198870764147",
+         "server_ip": "37.18.21.170",
+         "server_port": 27020,
+         "kills": 5,
+         "headshots": 4,
+         "deaths": 15,
+         "time": 533,
+         "FACEIT_elo": 952
+      },
+      {
+         "group": null,
+         "name": "14avg",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/76/7643e5e01e3dbf0fd9574ce945f9e9975c95cf48_full.jpg",
+         "country": "kz",
+         "faceit_level": 5,
+         "cybershoke_level": 5,
+         "steamid64": "76561199063380751",
+         "server_ip": "37.18.21.170",
+         "server_port": 27020,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 2,
+         "time": 40,
+         "FACEIT_elo": 1365
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "37.18.21.170",
+         "port": 27020,
+         "Players": 3,
+         "round_win_ct": 12,
+         "round_win_t": 12,
+         "match_start_time": 1646239357,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_overpass",
+         "max_players": 9,
+         "players": 3,
+         "faceit_avg": 4,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

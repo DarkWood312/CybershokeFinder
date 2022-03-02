@@ -1,0 +1,101 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "moms boy",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+         "country": "kz",
+         "faceit_level": 8,
+         "cybershoke_level": 7,
+         "steamid64": "76561198027771576",
+         "server_ip": "79.143.20.74",
+         "server_port": 26135,
+         "kills": 23,
+         "headshots": 10,
+         "deaths": 6,
+         "time": 594,
+         "FACEIT_elo": 1712
+      },
+      {
+         "group": null,
+         "name": "Singo",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/66/66b8afd3d87bed29d96c329f868cf6b48efe0afc_full.jpg",
+         "country": "ru",
+         "faceit_level": 2,
+         "cybershoke_level": 1,
+         "steamid64": "76561199133511813",
+         "server_ip": "79.143.20.74",
+         "server_port": 26135,
+         "kills": 18,
+         "headshots": 6,
+         "deaths": 26,
+         "time": 1004,
+         "FACEIT_elo": 899
+      },
+      {
+         "group": null,
+         "name": "Veles",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8a/8a55d2404cb53c01adc9e8182b6f1a11deba6eb8_full.jpg",
+         "country": "kz",
+         "faceit_level": 2,
+         "cybershoke_level": 5,
+         "steamid64": "76561198358779616",
+         "server_ip": "79.143.20.74",
+         "server_port": 26135,
+         "kills": 17,
+         "headshots": 12,
+         "deaths": 18,
+         "time": 1004,
+         "FACEIT_elo": 906
+      },
+      {
+         "group": "LITE",
+         "name": "\u041b\u044f\u0433\u0443\u0448\u043a\u0430",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/5039b8657252ca7ee276a82a2b3c7bf8617bde2a_full.jpg",
+         "country": "kz",
+         "faceit_level": 2,
+         "cybershoke_level": 1,
+         "steamid64": "76561199123120256",
+         "server_ip": "79.143.20.74",
+         "server_port": 26135,
+         "kills": 16,
+         "headshots": 8,
+         "deaths": 24,
+         "time": 1004,
+         "FACEIT_elo": 826
+      },
+      {
+         "group": null,
+         "name": "FAIL K31N",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/50767cea96889a121066ed45c098873cb258f8f3_full.jpg",
+         "country": "ru",
+         "faceit_level": 2,
+         "cybershoke_level": 2,
+         "steamid64": "76561199120199796",
+         "server_ip": "79.143.20.74",
+         "server_port": 26135,
+         "kills": 8,
+         "headshots": 5,
+         "deaths": 5,
+         "time": 417,
+         "FACEIT_elo": 873
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "79.143.20.74",
+         "port": 26135,
+         "Players": 5,
+         "round_win_ct": 21,
+         "round_win_t": 15,
+         "match_start_time": 1646238079,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_overpass",
+         "max_players": 9,
+         "players": 5,
+         "faceit_avg": 3,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

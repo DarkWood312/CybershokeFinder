@@ -1,0 +1,37 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "Novac",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/64/64ea1c8910067b811363e97006e97871f4af6e2c_full.jpg",
+         "country": "pl",
+         "faceit_level": 5,
+         "cybershoke_level": 4,
+         "steamid64": "76561198372266959",
+         "server_ip": "46.174.49.247",
+         "server_port": 27037,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 4167,
+         "FACEIT_elo": 1303
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.49.247",
+         "port": 27037,
+         "Players": 1,
+         "round_win_ct": 0,
+         "round_win_t": 0,
+         "match_start_time": 1646238451,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 7,
+         "players": 1,
+         "faceit_avg": 5,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

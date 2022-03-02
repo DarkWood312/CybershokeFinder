@@ -1,0 +1,101 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "obidno",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cd/cde8e8e2af5b8d329dc09f9fe228d9731644c07e_full.jpg",
+         "country": "ru",
+         "faceit_level": 4,
+         "cybershoke_level": 8,
+         "steamid64": "76561198190748109",
+         "server_ip": "185.149.40.43",
+         "server_port": 27028,
+         "kills": 3,
+         "headshots": 1,
+         "deaths": 1,
+         "time": 178,
+         "FACEIT_elo": 1215
+      },
+      {
+         "group": null,
+         "name": "Romelu Lukaku",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a6/a6bb3625dfb464d3a875f1ec9d4ccd6e920082bb_full.jpg",
+         "country": "ua",
+         "faceit_level": 1,
+         "cybershoke_level": 4,
+         "steamid64": "76561198445871135",
+         "server_ip": "185.149.40.43",
+         "server_port": 27028,
+         "kills": 2,
+         "headshots": 2,
+         "deaths": 1,
+         "time": 93,
+         "FACEIT_elo": 408
+      },
+      {
+         "group": null,
+         "name": "FrostiKolino",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8d/8d52fb11b5f2e7689e5e45ab42b2a2895f391d2e_full.jpg",
+         "country": "ua",
+         "faceit_level": 3,
+         "cybershoke_level": 2,
+         "steamid64": "76561198926956926",
+         "server_ip": "185.149.40.43",
+         "server_port": 27028,
+         "kills": 1,
+         "headshots": 1,
+         "deaths": 1,
+         "time": 72,
+         "FACEIT_elo": 985
+      },
+      {
+         "group": null,
+         "name": "\u0412\u043b\u0430\u0434\u043a )))",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1e/1e97c950dd6478e037190315bb30d185e5ea5baa_full.jpg",
+         "country": "ru",
+         "faceit_level": 2,
+         "cybershoke_level": 3,
+         "steamid64": "76561199067899713",
+         "server_ip": "185.149.40.43",
+         "server_port": 27028,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 7,
+         "FACEIT_elo": 900
+      },
+      {
+         "group": null,
+         "name": "losecontrol \u2665\ua9c1\ua9c2",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/87/8787d0b59df93827209ab2e8896e449499ac4a1f_full.jpg",
+         "country": "ua",
+         "faceit_level": 5,
+         "cybershoke_level": 5,
+         "steamid64": "76561198820507292",
+         "server_ip": "185.149.40.43",
+         "server_port": 27028,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 0,
+         "FACEIT_elo": 1260
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "185.149.40.43",
+         "port": 27028,
+         "Players": 5,
+         "round_win_ct": 5,
+         "round_win_t": 2,
+         "match_start_time": 1646235469,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_mirage",
+         "max_players": 9,
+         "players": 5,
+         "faceit_avg": 3,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

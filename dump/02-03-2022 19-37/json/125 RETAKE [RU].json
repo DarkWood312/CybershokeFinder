@@ -1,0 +1,101 @@
+{
+   "playersv2": [
+      {
+         "group": "LITE",
+         "name": "Sokka",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cde1355065ab555e402853919e6da65f214d280_full.jpg",
+         "country": "ru",
+         "faceit_level": 1,
+         "cybershoke_level": 1,
+         "steamid64": "76561198410207759",
+         "server_ip": "46.174.52.109",
+         "server_port": 27031,
+         "kills": 10,
+         "headshots": 5,
+         "deaths": 9,
+         "time": 564,
+         "FACEIT_elo": 773
+      },
+      {
+         "group": null,
+         "name": "\u043d\u0430\u0446, \u043d\u0435\u0442 \u0441\u043d\u0438\u043a\u0435\u0440\u0441",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/78/78d6e979b0709bb2b3f5b3fef624ea33747c54a2_full.jpg",
+         "country": "ru",
+         "faceit_level": 1,
+         "cybershoke_level": 4,
+         "steamid64": "76561199093040461",
+         "server_ip": "46.174.52.109",
+         "server_port": 27031,
+         "kills": 7,
+         "headshots": 2,
+         "deaths": 11,
+         "time": 565,
+         "FACEIT_elo": 698
+      },
+      {
+         "group": null,
+         "name": "kayZz",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/79/7926bf86674b5b82be9c8cb5314467d41df4ada4_full.jpg",
+         "country": "ru",
+         "faceit_level": 4,
+         "cybershoke_level": 4,
+         "steamid64": "76561199037698060",
+         "server_ip": "46.174.52.109",
+         "server_port": 27031,
+         "kills": 6,
+         "headshots": 4,
+         "deaths": 3,
+         "time": 277,
+         "FACEIT_elo": 1111
+      },
+      {
+         "group": null,
+         "name": "etag",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/497c056851dd738a7d0bd7561e859326f5fdb12d_full.jpg",
+         "country": "ru",
+         "faceit_level": null,
+         "cybershoke_level": 1,
+         "steamid64": "76561198819727436",
+         "server_ip": "46.174.52.109",
+         "server_port": 27031,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 0,
+         "time": 40,
+         "FACEIT_elo": null
+      },
+      {
+         "group": "LITE",
+         "name": "TeenageMutantNinjaTu",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4f/4f570497f69258a4c87a8094f20594402ddda138_full.jpg",
+         "country": "ru",
+         "faceit_level": 8,
+         "cybershoke_level": 9,
+         "steamid64": "76561198967660452",
+         "server_ip": "46.174.52.109",
+         "server_port": 27031,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 1,
+         "time": 95,
+         "FACEIT_elo": 1771
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "46.174.52.109",
+         "port": 27031,
+         "Players": 5,
+         "round_win_ct": 9,
+         "round_win_t": 9,
+         "match_start_time": 1646238539,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_inferno",
+         "max_players": 7,
+         "players": 5,
+         "faceit_avg": 4,
+         "mode_alt": "RETAKE"
+      }
+   }
+}

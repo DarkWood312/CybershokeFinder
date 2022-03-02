@@ -1,0 +1,85 @@
+{
+   "playersv2": [
+      {
+         "group": null,
+         "name": "\u0413\u0440\u0438\u0448\u04302008",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/3280e86b08056f80d2576256a3b1436991f41738_full.jpg",
+         "country": "ru",
+         "faceit_level": 4,
+         "cybershoke_level": 3,
+         "steamid64": "76561198884489488",
+         "server_ip": "37.230.228.60",
+         "server_port": 27024,
+         "kills": 5,
+         "headshots": 4,
+         "deaths": 1,
+         "time": 193,
+         "FACEIT_elo": 1126
+      },
+      {
+         "group": null,
+         "name": "free1anser",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28cc65c43c0e04160a29c27d389a88606ea7ece7_full.jpg",
+         "country": "ru",
+         "faceit_level": 3,
+         "cybershoke_level": 3,
+         "steamid64": "76561199097840450",
+         "server_ip": "37.230.228.60",
+         "server_port": 27024,
+         "kills": 5,
+         "headshots": 5,
+         "deaths": 3,
+         "time": 194,
+         "FACEIT_elo": 1000
+      },
+      {
+         "group": "LITE",
+         "name": "kerpitch1337 (\u043e\u043b\u0434)",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/33/338af59c7290bcb2314fee66e477600551f5074e_full.jpg",
+         "country": "ru",
+         "faceit_level": null,
+         "cybershoke_level": 4,
+         "steamid64": "76561198989915702",
+         "server_ip": "37.230.228.60",
+         "server_port": 27024,
+         "kills": 1,
+         "headshots": 1,
+         "deaths": 3,
+         "time": 193,
+         "FACEIT_elo": null
+      },
+      {
+         "group": null,
+         "name": "\u0421\u0435\u0440\u0435\u0436\u04302007",
+         "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c1e5966d4ab4fce66ecce1d05ca77edf318d9e1d_full.jpg",
+         "country": "ru",
+         "faceit_level": 3,
+         "cybershoke_level": 2,
+         "steamid64": "76561198198308518",
+         "server_ip": "37.230.228.60",
+         "server_port": 27024,
+         "kills": 0,
+         "headshots": 0,
+         "deaths": 4,
+         "time": 193,
+         "FACEIT_elo": 1000
+      }
+   ],
+   "serversv2": {
+      "0": {
+         "ip": "37.230.228.60",
+         "port": 27024,
+         "Players": 4,
+         "round_win_ct": 2,
+         "round_win_t": 3,
+         "match_start_time": 1646235493,
+         "match_max_time": 3600,
+         "match_max_round": 30,
+         "map": "de_cache",
+         "max_players": 9,
+         "players": 4,
+         "faceit_avg": 3,
+         "mode_alt": "RETAKE"
+      }
+   }
+}
