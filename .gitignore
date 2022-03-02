@@ -1,4 +1,7 @@
-/dump/
-/.idea/
+dump/
+.idea/
 /instructions.txt
 /settings.txt
+output/instructions.txt
+output/settings.txt
+output/dump/
