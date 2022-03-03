@@ -109,10 +109,10 @@ def process_settings(filename='settings.txt') -> dict:
 
 if not os.path.exists('settings.txt'):
     create_settings()
-    print(Fore.CYAN + 'Settings.txt has created!' + Fore.RESET)
+    print(Fore.CYAN + 'Settings.txt has been created!' + Fore.RESET)
 if not os.path.exists('instructions.txt'):
     create_instructions()
-    print(Fore.CYAN + 'Instructions.txt has created!' + Fore.RESET)
+    print(Fore.CYAN + 'Instructions.txt has been created!' + Fore.RESET)
 
 settings = process_settings()
 
