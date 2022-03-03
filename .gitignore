@@ -5,3 +5,4 @@ dump/
 output/instructions.txt
 output/settings.txt
 output/dump/
+/start.cmd

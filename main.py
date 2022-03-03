@@ -4,10 +4,12 @@ from time import sleep
 import datetime
 import json
 import os
+from colorama import Fore
 
 
 def stop():
-    exit(0)
+    input('\n' + Fore.RED + 'Press Enter' + Fore.RESET)
+    exit(1)
 
 
 path = os.getcwd()
@@ -25,7 +27,7 @@ headers = {
 
 def create_settings(filename='settings.txt'):
     with open(filename, 'w') as f:
-        f.write('''save = True
+        f.write('''save = False
 sleep_time = 0.5
 searching_with_filters = False
 nick = None
@@ -107,10 +109,10 @@ def process_settings(filename='settings.txt') -> dict:
 
 if not os.path.exists('settings.txt'):
     create_settings()
-    print('Settings.txt has created!')
+    print(Fore.CYAN + 'Settings.txt has created!' + Fore.RESET)
 if not os.path.exists('instructions.txt'):
     create_instructions()
-    print('Instructions.txt has created!')
+    print(Fore.CYAN + 'Instructions.txt has created!' + Fore.RESET)
 
 settings = process_settings()
 
@@ -136,16 +138,16 @@ def output(target, target_value, server_identity: str, n, g, a, c, fl, fe, cl, s
     Kills - {k}
     Headshots - {h}
     Deaths - {d}
-    Time - {t}\n''')
+    Time - {t}\n\n''')
         except UnicodeEncodeError:
             pass
         f.close()
-    print(f"I have found '{n}' with {target} '{target_value}' at {server_identity}")
+    print(f"{Fore.LIGHTGREEN_EX}I have found {Fore.LIGHTBLUE_EX} '{n}' {Fore.LIGHTGREEN_EX} with {Fore.LIGHTBLUE_EX} {target} '{target_value}' {Fore.LIGHTGREEN_EX} at {Fore.LIGHTBLUE_EX} {server_identity}" + Fore.RESET)
 
 
 def main_func(process_count=0):
     if not settings['save'] and not searching:
-        print('Searching and Saving in settings.txt are turned off! There is nothing to do ;(')
+        print(Fore.LIGHTRED_EX + f'Searching and Saving in {Fore.CYAN}settings.txt{Fore.LIGHTRED_EX} are turned {Fore.RED}off{Fore.LIGHTRED_EX}! There is nothing to do ;(' + Fore.RESET)
         stop()
     try:
         if settings['save']:
@@ -338,7 +340,7 @@ def main_func(process_count=0):
 
         process_count += 1
         print(
-            f'Processing... {process_count}/{len(servers_list)} - {round(process_count / len(servers_list) * 100, 1)}%')
+            f'{Fore.LIGHTYELLOW_EX}Processing... {process_count}/{len(servers_list)} - {round(process_count / len(servers_list) * 100, 1)}%')
         sleep(settings['sleep_time'])
 
 
