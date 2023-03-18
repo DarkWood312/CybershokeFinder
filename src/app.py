@@ -116,6 +116,13 @@ class App(customtkinter.CTk):
 
     def start_btn(self):
         opt = self.options_frame
+        prime = ''
+
+        if opt.prime.get() == 1:
+            prime = True
+        elif opt.prime.get() == 0:
+            prime = False
+
         filters = {'server': {
             'mode': opt.mode.get(),
             'country': opt.country.get(),
@@ -152,7 +159,7 @@ class App(customtkinter.CTk):
         output_textbox.insert('0.0', output_text)
         output_textbox.pack(expand=True, fill=BOTH, side=LEFT)
 
-        if self.save_checkbox:
+        if self.save_checkbox.get():
             with open('CyberOutput.txt', 'w', encoding='utf-8') as f:
                 f.write(output_text)
 

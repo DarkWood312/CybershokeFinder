@@ -62,15 +62,16 @@ Players:\n
             # steamurl = steam_faceit_data['steamDatas']['profileurl']
             # faceiturl = steam_faceit_data['playerDatas']['faceit_url']
             # cybershokeurl = f'https://cybershoke.net/{p["steamid64"]}'
-            player_text = f"""    Group --> {p['group']}
-    Nickname --> {p['name']}
+            player_text = f"""    Nickname --> {p['name']}
+    Group --> {p['group']}
     Faceit Level & ELO --> {p['faceit_level']} & {p['FACEIT_elo']}
     Cybershoke Level & Rank & Points --> {p['cybershoke_level']} & {p['rank']} & {p['points']}
     Kills & Headshots & Deaths --> {p['kills']} & {p['headshots']} & {p['deaths']}
+    Player Country --> {p['country']}
+    SteamID --> {p['steamid64']}
     Played Time --> {timedelta(seconds=p['time'])}"""
-            # (Steam & Faceit & Cybershoke) URLS --> {steamurl} & {faceiturl} & {cybershokeurl}"""
+
             text += player_text + '\n\n'
-            # time.sleep(3)
         text += '\n' + ('-' * 100) + '\n\n'
 
     return text
@@ -136,18 +137,22 @@ def main(filters: dict, maximum: int = -1):
                                           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'},
                                       data={'ip': ip, 'port': int(port)})
         req_dict = server_request.json()
+
+        change_maximum = False
         for player in req_dict['playersv2']:
             # print(player)
             if not (compare_dicts(filters['players'], player)):
                 continue
+            change_maximum = True
 
             formatted_dict[server]['players'] = req_dict['playersv2']
             formatted_dict[server]['server'] = req_dict['serversv2']['0']
 
             return_dict[server] = formatted_dict[server]
 
+        if change_maximum:
             maximum -= 1
-            if maximum == 0:
-                return return_dict
+        if maximum == 0:
+            return return_dict
 
     return return_dict
