@@ -104,7 +104,7 @@ class App(customtkinter.CTk):
         self.options_frame.pack(anchor=N, side=LEFT)
 
         self.save_checkbox = customtkinter.CTkCheckBox(self, height=10, width=100, checkbox_width=10, border_width=1,
-                                                       checkbox_height=10, text="Save to 'output.txt file?'")
+                                                       checkbox_height=10, text="Save to 'output.txt' file?")
         self.save_checkbox.place(x=80, rely=0.85, anchor=S)
 
         self.start_btn = customtkinter.CTkButton(master=self, command=self.start_btn, text='Start', height=10,
