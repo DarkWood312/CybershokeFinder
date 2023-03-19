@@ -34,6 +34,9 @@ class OptionsFrame(customtkinter.CTkFrame):
                                                             width=250)
         self.faceit_limiter_enable.grid(column=0, row=7, sticky=N)
 
+        self.map = customtkinter.CTkEntry(self, placeholder_text='Full Map Name: ', width=250)
+        self.map.grid(column=0, row=8, sticky=N)
+
         # Players
         self.playerlabel = customtkinter.CTkLabel(self, text='Players filters: ')
         self.playerlabel.grid(column=1, row=0, sticky=N)
@@ -131,7 +134,8 @@ class App(customtkinter.CTk):
             'maxplayers': opt.maxplayers.get(),  # int
             'status': 'Online',
             'faceit_avg': opt.faceit_avg.get(),  # int
-            'faceit_limiter_enable': opt.faceit_limiter_enable.get()  # int
+            'faceit_limiter_enable': opt.faceit_limiter_enable.get(),  # int
+            'map': opt.map.get()
         }, 'players': {
             'group': opt.group.get(),
             'name': opt.name.get(),
